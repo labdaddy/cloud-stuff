@@ -1,6 +1,6 @@
 # A list of AWS training/ learning resources
 
-1. [AWS Ramp Up Guides](https://aws.amazon.com/training/ramp-up-guides/_)
+1. [AWS Ramp Up Guides](https://aws.amazon.com/training/ramp-up-guides/)
 
 2. [AWS Quick Start Repos (short task oriented guides)](https://github.com/orgs/aws-quickstart/repositories)
 
