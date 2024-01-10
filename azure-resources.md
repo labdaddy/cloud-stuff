@@ -2,7 +2,7 @@
 
 1. [Azure Docs](https://learn.microsoft.com/en-us/azure/?product=popular)
 
-2. [Microsoft Credentials (hands on trainings & certifications(https://learn.microsoft.com/en-us/credentials/)
+2. [Microsoft Credentials (hands on trainings & certifications)](https://learn.microsoft.com/en-us/credentials/)
 
 3. [Microsoft Build, more training/ learning materials](https://learn.microsoft.com/en-us/training/topics/build)
 
