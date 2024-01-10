@@ -1,4 +1,4 @@
-## a list of cloud training challenge links
+## a list of cloud training links
 1. [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/)
 
 2. [Learnt To Cloud](https://learntocloud.guide/docs/Welcome)
